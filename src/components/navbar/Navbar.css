@@ -1,0 +1,13 @@
+.nav-link {
+  color: whitesmoke;
+  font-size: large;
+}
+.nav-link:hover {
+  color: goldenrod;
+}
+.navbar-toggler-icon {
+  color: white;
+}
+.username {
+  color: whitesmoke;
+}
